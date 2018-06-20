@@ -2,10 +2,10 @@ const companyName = 'Scuber';
 
 console.log(companyName);
 
-const  = 'Scuber';
+const mostProfitableNeighborhood = 'Chelsea';
 
-console.log(companyName);
+console.log(mostProfitableNeighborhood);
 
-const companyName = 'Scuber';
+const companyCeo = 'Susan Smith';
 
-console.log(companyName);
+console.log(companyCeo);
