@@ -1,3 +1,3 @@
 const companyName = 'Scuber';
 
-console.log
+console.log(companyName);
