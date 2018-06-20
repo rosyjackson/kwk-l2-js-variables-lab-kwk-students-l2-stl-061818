@@ -1,4 +1,4 @@
-let companyName = 'Scuber';
+const companyName = 'Scuber';
 
 console.log(companyName);
 
